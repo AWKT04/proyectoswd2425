@@ -73,11 +73,11 @@
   },
   {
     "id": 8,
-    "autor": "Paula Bailach i Duna Estrada",
-    "titulo": "Travel Blog",
-    "srcimg": "https://raw.githubusercontent.com/dunaestrada/practica2/refs/heads/main/img/TitleBackground.bd77fc98.png",
-    "alt": "Ala de un avión volando",
-    "texto": "Un blog de viajes en inglés con barreras de accesibilidad web para empatizar con las personas con discapacidad",
-    "url": "https://dunaestrada.github.io/practica2/"
+    "autor": "Valentina Coello y Julia Calvo",
+    "titulo": "AprendiendoaEmpatizar",
+    "srcimg": "/img/discapacidad.ae65bc11.png",
+    "alt": "Imagen representativa de personas con discapacidades.",
+    "texto": "Una página para reflexionar sobre el dia a dia de las personas con discapacidades en entornos web.",
+    "url": "https://juliz1.github.io/AprendiendoaEmpatizar/"
   }
 ]
